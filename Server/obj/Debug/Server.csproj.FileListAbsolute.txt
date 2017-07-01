@@ -1,0 +1,9 @@
+G:\VS\Projects\TranFile\Server\obj\Debug\Server.ServerForm.resources
+G:\VS\Projects\TranFile\Server\obj\Debug\Server.Properties.Resources.resources
+G:\VS\Projects\TranFile\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\VS\Projects\TranFile\Server\bin\Debug\Server.exe.config
+G:\VS\Projects\TranFile\Server\bin\Debug\Server.exe
+G:\VS\Projects\TranFile\Server\bin\Debug\Server.pdb
+G:\VS\Projects\TranFile\Server\obj\Debug\Server.exe
+G:\VS\Projects\TranFile\Server\obj\Debug\Server.pdb
+G:\VS\Projects\TranFile\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

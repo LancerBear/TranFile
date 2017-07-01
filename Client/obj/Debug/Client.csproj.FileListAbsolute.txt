@@ -1,0 +1,9 @@
+G:\VS\Projects\TranFile\Client\bin\Debug\Client.exe.config
+G:\VS\Projects\TranFile\Client\bin\Debug\Client.exe
+G:\VS\Projects\TranFile\Client\bin\Debug\Client.pdb
+G:\VS\Projects\TranFile\Client\obj\Debug\Client.ClientForm.resources
+G:\VS\Projects\TranFile\Client\obj\Debug\Client.Properties.Resources.resources
+G:\VS\Projects\TranFile\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+G:\VS\Projects\TranFile\Client\obj\Debug\Client.exe
+G:\VS\Projects\TranFile\Client\obj\Debug\Client.pdb
+G:\VS\Projects\TranFile\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
